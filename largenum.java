@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MyClass {
+public class largenum {
   public static void main(String args[]) {
     Scanner cin = new Scanner(System.in);
     System.out.println("Put three int number below...");
@@ -21,4 +21,5 @@ public class MyClass {
             System.out.println(c);
     }
   }
+
 }
